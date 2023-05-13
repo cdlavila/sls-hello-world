@@ -1,6 +1,6 @@
 ## Basic serverless REST API
 
-This is a basic REST API using [Serverless Framework](https://serverless.com/) and [AWS Lambda](https://aws.amazon.com/lambda/).
+This is a basic Serverless REST API build using [Serverless Framework](https://serverless.com/) and [AWS Lambda](https://aws.amazon.com/lambda/).
 We have a single endpoint that returns a hello world message.
 
 - `GET /hello`
